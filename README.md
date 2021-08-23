@@ -34,13 +34,9 @@
 			秘密のページ
 
 Morbi mattis arcu a eros gravida viverra. Quisque nec mattis eros. Aliquam ullamcorper metus nulla, non hendrerit est dapibus eu. In hac habitasse platea dictumst. Aenean eu tortor vitae quam ultrices eleifend eget pellentesque felis. Suspendisse fringilla ornare elit in placerat. Aliquam non mauris dolor. Nunc congue vulputate nulla sit amet vehicula. Curabitur sit amet tristique felis.</th>
-		<th>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sed eros lacinia vestibulum. Proin elementum magna non mauris interdum malesuada. Fusce vitae accumsan augue. Fusce auctor odio sit amet nibh tristique, at bibendum neque aliquet. Quisque facilisis diam quam, finibus porttitor purus posuere tempus. Etiam malesuada, enim quis sagittis pellentesque, ligula nisi tincidunt arcu, at sodales libero sem vitae dui. Donec tempor urna eget purus interdum, ut efficitur mi sollicitudin. Donec maximus nisl in magna accumsan lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et nisi quis eros vehicula ultricies eget sit amet leo. Fusce tempus, tellus et aliquam suscipit, augue sapien scelerisque leo, at placerat urna purus eu eros.
-
-Morbi mattis arcu a eros gravida viverra. Quisque nec mattis eros. Aliquam ullamcorper metus nulla, non hendrerit est dapibus eu. In hac habitasse platea dictumst. Aenean eu tortor vitae quam ultrices eleifend eget pellentesque felis. Suspendisse fringilla ornare elit in placerat. Aliquam non mauris dolor. Nunc congue vulputate nulla sit amet vehicula. Curabitur sit amet tristique felis.</th>
+		<th><link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/akbingos/akbingos.github.io/main/diary.txt" /></th>
 	</tr>
 	</thead>
 	<tbody>
-		<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/akbingos/akbingos.github.io/main/diary.txt" />
-
 	</tbody>
 </table>
