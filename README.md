@@ -37,7 +37,8 @@
 	 <b> 嫌いもの：</b> 数学。<br>
 	  <img src="https://revstar.carrd.co/assets/images/gallery01/7465150e.gif?v=81856bea" height="100">
 		</div>
-  <div class="column">秘密のページ見つけた！！ よこそう、こっちで部屋、気持ちを表現して日本語を練習する. 日本人じゃないけど。。頑張ります！ <br>
+  <div class="column"><img src="https://i.pinimg.com/564x/80/2b/77/802b778c72c2cae08e52e62be4df4728.jpg" height="200">
+	  秘密のページ見つけた！！ よこそう、こっちで部屋、気持ちを表現して日本語を練習する. 日本人じゃないけど。。頑張ります！ <br>
 	  毎日書きます。
 </div>
 
