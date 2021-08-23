@@ -10,17 +10,13 @@
 	.demo {
 		width:1000px;
 		height:2000px;
-		border:1px solid #C0C0C0;
-		border-collapse:collapse;
 		padding:5px;
 	}
 	.demo th {
-		border:1px solid #C0C0C0;
 		padding:5px;
 		background:#FFFFF;
 	}
 	.demo td {
-		border:1px solid #C0C0C0;
 		text-align:center;
 		padding:5px;
 		background:#FFFFFF;
