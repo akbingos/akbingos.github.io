@@ -18,6 +18,7 @@
   width: 50%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
+  background-color: #ffffff;
 }
 
 /* Clear floats after the columns */
