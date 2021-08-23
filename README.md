@@ -41,7 +41,7 @@
 	  秘密のページ見つけた！！ よこそう、こっちで部屋、気持ちを表現して日本語を練習する. 日本人じゃないけど。。頑張ります！ <br>
 	  毎日書きます。
 	  <br>
-	  <button>Default Button</button><button>Default Button</button><button>Default Button</button>
+	  <button>Default Button</button> <button>Default Button</button> <button>Default Button</button>
 
 </div>
 		
