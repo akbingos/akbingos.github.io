@@ -40,6 +40,9 @@
   <div class="column"><img src="https://i.pinimg.com/564x/80/2b/77/802b778c72c2cae08e52e62be4df4728.jpg" height="300"><br>
 	  秘密のページ見つけた！！ よこそう、こっちで部屋、気持ちを表現して日本語を練習する. 日本人じゃないけど。。頑張ります！ <br>
 	  毎日書きます。
+	  
+	  <button>Default Button</button><button>Default Button</button><button>Default Button</button>
+
 </div>
 		
 
