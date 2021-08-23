@@ -17,7 +17,7 @@
 	.demo th {
 		border:1px solid #C0C0C0;
 		padding:5px;
-		background:#F0F0F0;
+		background:#FFFFF;
 	}
 	.demo td {
 		border:1px solid #C0C0C0;
