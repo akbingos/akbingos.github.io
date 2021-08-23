@@ -30,7 +30,7 @@
 </head>
 <body>
 	<div class="row">
-  <div class="column"><img src="https://pbs.twimg.com/media/E05wpHqXoAINF2_?format=jpg&name=medium" height="200"><img src="https://i.pinimg.com/564x/a7/34/b6/a734b651eb5051258083b939dd1f9d37.jpg" height="200"><br><img src="https://revstar.carrd.co/assets/images/gallery04/bee68068.png?v=81856bea" height="20"><br> <b>自己紹介</b><br>
+  <div class="column"><img src="https://pbs.twimg.com/media/E05wpHqXoAINF2_?format=jpg&name=medium" height="200"><img src="https://i.pinimg.com/564x/a7/34/b6/a734b651eb5051258083b939dd1f9d37.jpg" height="200"><br><img src="https://revstar.carrd.co/assets/images/gallery04/bee68068.png?v=81856bea" height="20"><img src="https://revstar.carrd.co/assets/images/gallery04/0ca3ef63.png?v=81856bea" height="20"><br> <b>自己紹介</b><br>
 	  <b>名前:</b> アテナ <br>
 	 <b> 年齢: 17 </b><br>
 	  <b>好きもの：</b> うみねこのなく頃に、響けユーフォニアム、バフィー〜恋する十字架〜,「今天的她也是如此可爱」と少女☆歌劇 レヴュースタァライト.<br>
