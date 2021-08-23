@@ -42,7 +42,5 @@
 	  毎日書きます。
 	  <br>
 	 <center> <button>Default Button</button> <button>Default Button</button> <button>Default Button</button>
-
-</div>
 		
 
