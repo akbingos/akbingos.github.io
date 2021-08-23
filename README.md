@@ -1,4 +1,5 @@
-      <style> 
+   <body>
+   <style> 
 	       body {
         background-image: url("https://i.pinimg.com/564x/ee/96/06/ee9606c1e661990cad30cc13e5b1316b.jpg");
         background-attachment: fixed;
@@ -25,10 +26,8 @@
 		background:#FFFFFF;
 	}
 </style>
-<body>
 <center>
 <table class="demo">
-	<caption>Table 1</caption>
 	<thead>
 	<tr>
 		<th>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sed eros lacinia vestibulum. Proin elementum magna non mauris interdum malesuada. Fusce vitae accumsan augue. Fusce auctor odio sit amet nibh tristique, at bibendum neque aliquet. Quisque facilisis diam quam, finibus porttitor purus posuere tempus. Etiam malesuada, enim quis sagittis pellentesque, ligula nisi tincidunt arcu, at sodales libero sem vitae dui. Donec tempor urna eget purus interdum, ut efficitur mi sollicitudin. Donec maximus nisl in magna accumsan lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et nisi quis eros vehicula ultricies eget sit amet leo. Fusce tempus, tellus et aliquam suscipit, augue sapien scelerisque leo, at placerat urna purus eu eros.
