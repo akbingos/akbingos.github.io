@@ -8,12 +8,35 @@
        }
 	  </style>
 	  </body>
-	
-	<table style="width: 60%;" border="2">
-<tbody>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
+<style>
+	.demo {
+		width:100%;
+		height:500%;
+		border:1px solid #C0C0C0;
+		border-collapse:collapse;
+		padding:5px;
+	}
+	.demo th {
+		border:1px solid #C0C0C0;
+		padding:5px;
+		background:#F0F0F0;
+	}
+	.demo td {
+		border:1px solid #C0C0C0;
+		text-align:center;
+		padding:5px;
+		background:#FFFFFF;
+	}
+</style>
+<table class="demo">
+	<caption>Table 1</caption>
+	<thead>
+	<tr>
+		<th>Header 1</th>
+		<th>Header 2</th>
+	</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
 </table>
