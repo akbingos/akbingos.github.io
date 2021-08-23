@@ -1,5 +1,3 @@
-  <body>
-  <center>
       <style> 
 	       body {
         background-image: url("https://i.pinimg.com/564x/ee/96/06/ee9606c1e661990cad30cc13e5b1316b.jpg");
@@ -7,7 +5,6 @@
          background-position: bottom;
        }
 	  </style>
-	  </body>
 <style>
 	.demo {
 		width:1000px;
@@ -28,6 +25,8 @@
 		background:#FFFFFF;
 	}
 </style>
+<body>
+<center>
 <table class="demo">
 	<caption>Table 1</caption>
 	<thead>
