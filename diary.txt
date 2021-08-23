@@ -3,8 +3,5 @@
 
 test
 
-<html>
-<body>
-<a href="https://akbingos.github.io" target="_parent"><button>戻る</button>
-</body>
-</html>
+<a href="https://akbingos.github.io/">戻る</a>
+
