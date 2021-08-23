@@ -42,6 +42,6 @@
 	  毎日書きます。
 	  <br>
 	 <center><a href="https://akbingos.github.io/diary.txt" target="_parent"><button>日記</button></a>
- <button>Default Button</button> <button>Default Button</button>
+ <button>Default sButton</button> <button>Default Button</button>
 		
 
