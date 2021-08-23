@@ -10,8 +10,8 @@
 	  </body>
 <style>
 	.demo {
-		width:100%;
-		height:500%;
+		width:1000px;
+		height:2000px;
 		border:1px solid #C0C0C0;
 		border-collapse:collapse;
 		padding:5px;
