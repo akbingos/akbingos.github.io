@@ -26,8 +26,7 @@
 <table class="demo">
 	<thead>
 	<tr>
-		<th><link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/akbingos/akbingos.github.io/main/diary.txt" />
-			<script src="https://cdn.rawgit.com/akbingos/akbingos.github.io/main/diary.txt"></script>
+		<th><script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fakbingos%2Fakbingos.github.io%2Fblob%2F8391316cc3cef5a31865781b5e1db32716d4de27%2Fdiary.txt&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
 
 Morbi mattis arcu a eros gravida viverra. Quisque nec mattis eros. Aliquam ullamcorper metus nulla, non hendrerit est dapibus eu. In hac habitasse platea dictumst. Aenean eu tortor vitae quam ultrices eleifend eget pellentesque felis. Suspendisse fringilla ornare elit in placerat. Aliquam non mauris dolor. Nunc congue vulputate nulla sit amet vehicula. Curabitur sit amet tristique felis.</th>
 		<th><img src="https://pbs.twimg.com/media/E05wpHqXoAINF2_?format=jpg&name=medium" height="200"><br><img src="https://revstar.carrd.co/assets/images/gallery04/bee68068.png?v=81856bea" height="20"><br>Morbi mattis arcu a eros gravida viverra. Quisque nec mattis eros. Aliquam ullamcorper metus nulla, non hendrerit est dapibus eu. In hac habitasse platea dictumst. Aenean eu tortor vitae quam ultrices eleifend eget pellentesque felis. Suspendisse fringilla ornare elit in placerat. Aliquam non mauris dolor. Nunc congue vulputate nulla sit amet vehicula. Curabitur sit amet tristique felis.
