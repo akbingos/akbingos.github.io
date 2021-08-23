@@ -9,4 +9,11 @@
 	  </style>
 	  </body>
 	
-	test <table> test <table> test
+	<table style="width: 60%;" border="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
