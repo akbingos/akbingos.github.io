@@ -34,7 +34,9 @@
 			<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/akbingos/akbingos.github.io/main/diary.txt" />
 
 Morbi mattis arcu a eros gravida viverra. Quisque nec mattis eros. Aliquam ullamcorper metus nulla, non hendrerit est dapibus eu. In hac habitasse platea dictumst. Aenean eu tortor vitae quam ultrices eleifend eget pellentesque felis. Suspendisse fringilla ornare elit in placerat. Aliquam non mauris dolor. Nunc congue vulputate nulla sit amet vehicula. Curabitur sit amet tristique felis.</th>
-		<th></th>
+		<th>Morbi mattis arcu a eros gravida viverra. Quisque nec mattis eros. Aliquam ullamcorper metus nulla, non hendrerit est dapibus eu. In hac habitasse platea dictumst. Aenean eu tortor vitae quam ultrices eleifend eget pellentesque felis. Suspendisse fringilla ornare elit in placerat. Aliquam non mauris dolor. Nunc congue vulputate nulla sit amet vehicula. Curabitur sit amet tristique felis.
+
+</th>
 	</tr>
 	</thead>
 	<tbody>
