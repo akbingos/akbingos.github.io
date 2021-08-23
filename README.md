@@ -16,7 +16,7 @@
   float: left;
   width: 50%;
   padding: 10px;
-  height: 600px; /* Should be removed. Only for demonstration */
+  height: 550px; /* Should be removed. Only for demonstration */
   background-color: #ffffff;
 }
 
