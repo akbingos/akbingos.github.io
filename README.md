@@ -40,6 +40,7 @@ Morbi mattis arcu a eros gravida viverra. Quisque nec mattis eros. Aliquam ullam
 	</tr>
 	</thead>
 	<tbody>
+		<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/akbingos/akbingos.github.io/main/diary.txt" />
 
 	</tbody>
 </table>
